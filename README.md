@@ -12,8 +12,9 @@ Technologies were used:
 
 - [React Native](https://reactnative.dev/)
 - [Yarn](https://yarnpkg.com/)
+- [Hook useState](https://pt-br.reactjs.org/docs/hooks-state.html)
+- [Hook useContext](https://pt-br.reactjs.org/docs/hooks-reference.html#usecontext)
 - [Redux](https://redux.js.org/)
-- [React Navigation](https://reactnavigation.org/)
 
 ## 📱 How To Use 
 
